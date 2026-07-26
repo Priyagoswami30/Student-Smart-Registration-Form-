@@ -36,8 +36,6 @@ student-smart-registration-form/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/student-smart-registration-form.git
-
 2. Open the Project Folder
 
 cd student-smart-registration-form
