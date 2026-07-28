@@ -1,6 +1,5 @@
-Deployed link- https://student-smart-registration-form.onrender.com. 
-
 🎓 Student Smart Registration Form
+Deployed link- https://student-smart-registration-form.onrender.com. 
 
 A clean and responsive Student Registration Form built using HTML5 and CSS3.
 This project provides a simple and user-friendly interface for collecting student information such as name, email, password, roll number, phone number, and address.
